@@ -1,5 +1,5 @@
 # 1. faça um programa que leia valores de uma compra e pare quando o valor for diferente de 0
-
+ 
 valor = float(input("digite um valor: "))
 total = itens = media = maior = 0
 
