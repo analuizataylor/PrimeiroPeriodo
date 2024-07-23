@@ -10,7 +10,7 @@ angulo = 360/lados
 
 t.begin_fill()
 t.fillcolor(cor)
-t.speed(1)
+t.speed(1)  
 
 for i in range(lados):
   i = int(i)
