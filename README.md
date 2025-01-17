@@ -1,5 +1,5 @@
 
-# Exercícios do Primeiro Período - Python
+# Exercícios do 1° Período - Python
 
 Realizados como fixação de conteúdo da matéria de "Laboratório de Programação I" do 1° período de Ciência da Computação, utilizando a linguagem Python.
 
